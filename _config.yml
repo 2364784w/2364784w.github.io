@@ -1,6 +1,6 @@
 # Setup
 title:               Masters Thesis
-tagline:             'Leon Williams'
+tagline:             '2364784W'
 description:         'A website for displaying results from my masters thesis'
 url:                 
 baseurl:             ''
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Leon Williams
-  url:               www.github.com/leonbaiyu
-  email:             leonbaiyu@gmail.com
+  name:              2364784W
+  url:               www.github.com/2364784w
+  email:             2364784w@student.gla.ac.uk
 
 # Gems
 plugins:
