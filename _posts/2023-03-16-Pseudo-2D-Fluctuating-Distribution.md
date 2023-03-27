@@ -8,6 +8,6 @@ A Pseudo-2D Kinetic Theory of Gases Model was developed as an adaptation of the 
 ### <b>Speed</b> distribution of a Pseudo 2D Model
 The resulting speed distribution from this model is depicted in the diagram below.  
 
-<img src="/P2D_velocity_distribution_animated_updated.gif" alt="GIF showing speed distribution for Pseudo 2D Gas model"   width = '100%'  height = 'auto'>
+<img src="/P2D_hist_animation_updated.gif" alt="GIF showing speed distribution for Pseudo 2D Gas model"   width = '100%'  height = 'auto'>
 
 The animation shows a near instant relaxation from all individuals having identical velocity into the shape of the Maxwell-Boltzmann speed distribution (fitted to an average of the final 10 distributions).
